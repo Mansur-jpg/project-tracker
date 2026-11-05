@@ -1,0 +1,101 @@
+﻿project_id;project_name;task_id;task_title;estimated_hours;actual_hours;priority;status;deadline;github_commits;github_open_issues
+4;Data Analysis Module;1;Написать тесты;04.авг;06.сен;High;In Progress;04.12.2026;14;4
+3;UI Redesign;2;Исправить баг;02.фев;02.июл;High;Done;20.11.2026;16;0
+1;Flask Tracker;3;Настроить ORM;02.июл;02.май;Medium;Done;26.10.2026;9;0
+4;Data Analysis Module;4;Обновить зависимости;04.сен;06.авг;High;In Progress;23.11.2026;4;3
+4;Data Analysis Module;5;Развернуть на хостинге;1.0;0.0;Low;Todo;03.12.2026;0;0
+1;Flask Tracker;6;Написать роуты;02.янв;02.июн;Medium;In Progress;23.11.2026;3;1
+2;API Integration;7;Развернуть на хостинге;07.июл;0.0;High;Todo;30.11.2026;0;1
+3;UI Redesign;8;Написать тесты;01.сен;0.0;Low;Todo;06.11.2026;0;2
+3;UI Redesign;9;Обновить зависимости;0.5;0.0;Low;Todo;06.11.2026;0;3
+4;Data Analysis Module;10;Написать тесты;07.янв;06.июл;High;In Progress;30.11.2026;3;4
+4;Data Analysis Module;11;Исправить баг;01.май;0.0;Medium;Todo;10.11.2026;0;2
+3;UI Redesign;12;Исправить баг;07.сен;11.июл;High;Done;30.11.2026;5;0
+4;Data Analysis Module;13;Написать документацию;0.8;0.0;Low;Todo;17.11.2026;0;3
+1;Flask Tracker;14;Написать документацию;02.июл;01.сен;High;In Progress;06.11.2026;13;1
+3;UI Redesign;15;Обновить зависимости;03.июл;03.авг;Medium;Done;30.11.2026;24;0
+2;API Integration;16;Обновить зависимости;06.июн;0.0;High;Todo;03.11.2026;0;2
+3;UI Redesign;17;Написать роуты;03.июн;02.сен;Medium;Done;24.11.2026;15;0
+3;UI Redesign;18;Рефакторинг кода;05.янв;0.0;High;Todo;06.11.2026;0;1
+2;API Integration;19;Написать роуты;01.май;2.0;Medium;Done;20.11.2026;11;0
+4;Data Analysis Module;20;Рефакторинг кода;05.фев;05.сен;High;Done;12.11.2026;12;0
+1;Flask Tracker;21;Написать документацию;01.июн;01.сен;Low;Done;05.12.2026;25;0
+1;Flask Tracker;22;Обновить зависимости;01.июн;01.мар;Medium;In Progress;30.10.2026;2;5
+3;UI Redesign;23;Написать тесты;02.сен;0.0;Medium;Todo;03.12.2026;0;0
+3;UI Redesign;24;Создать шаблоны;0.7;0.9;Low;In Progress;03.12.2026;2;5
+2;API Integration;25;Настроить Bootstrap;0.9;0.6;Low;In Progress;26.10.2026;8;4
+2;API Integration;26;Валидация форм;02.июл;3.0;High;Done;26.11.2026;17;0
+1;Flask Tracker;27;Интеграция с GitHub API;01.июл;02.мар;Medium;Done;04.11.2026;8;0
+3;UI Redesign;28;Развернуть на хостинге;03.июл;02.авг;Medium;In Progress;30.10.2026;6;5
+3;UI Redesign;29;Настроить ORM;04.фев;05.апр;High;Done;25.11.2026;12;0
+4;Data Analysis Module;30;Обновить зависимости;01.сен;0.0;Low;Todo;26.10.2026;0;0
+4;Data Analysis Module;31;Написать роуты;03.апр;04.сен;Medium;Done;26.10.2026;6;0
+2;API Integration;32;Интеграция с GitHub API;2.0;02.фев;Low;In Progress;05.11.2026;2;2
+3;UI Redesign;33;Валидация форм;02.май;0.0;Medium;Todo;23.11.2026;0;2
+1;Flask Tracker;34;Написать тесты;02.апр;02.авг;High;Done;12.11.2026;11;0
+1;Flask Tracker;35;Исправить баг;01.фев;01.май;Low;In Progress;15.11.2026;5;2
+2;API Integration;36;Написать роуты;0.6;0.6;Low;Done;09.11.2026;12;0
+3;UI Redesign;37;Написать тесты;0.6;0.9;Low;In Progress;03.12.2026;14;2
+1;Flask Tracker;38;Создать шаблоны;03.апр;03.июн;Medium;In Progress;03.12.2026;11;5
+3;UI Redesign;39;Исправить баг;07.сен;10.июл;High;Done;22.11.2026;8;0
+4;Data Analysis Module;40;Интеграция с GitHub API;01.май;0.0;Medium;Todo;26.10.2026;0;0
+2;API Integration;41;Написать документацию;01.авг;02.янв;Medium;Done;05.12.2026;10;0
+4;Data Analysis Module;42;Написать роуты;06.фев;0.0;High;Todo;01.11.2026;0;3
+3;UI Redesign;43;Написать тесты;03.июл;04.июн;Medium;Done;30.10.2026;10;0
+3;UI Redesign;44;Настроить ORM;06.июл;05.авг;High;Done;15.11.2026;11;0
+2;API Integration;45;Сделать дашборд;03.июн;0.0;Medium;Todo;26.11.2026;0;0
+1;Flask Tracker;46;Создать шаблоны;07.сен;06.авг;High;In Progress;26.11.2026;10;4
+4;Data Analysis Module;47;Валидация форм;04.июл;05.май;High;Done;02.12.2026;25;0
+4;Data Analysis Module;48;Исправить баг;01.май;0.0;Medium;Todo;21.11.2026;0;2
+2;API Integration;49;Настроить Bootstrap;7.0;0.0;High;Todo;05.11.2026;0;3
+2;API Integration;50;Написать документацию;02.июн;02.апр;Medium;Done;28.11.2026;16;0
+1;Flask Tracker;51;Создать шаблоны;03.июн;5.0;Medium;In Progress;17.11.2026;3;5
+3;UI Redesign;52;Написать роуты;05.июн;06.июн;High;Done;25.11.2026;25;0
+1;Flask Tracker;53;Настроить ORM;01.сен;01.сен;Medium;In Progress;03.12.2026;4;1
+4;Data Analysis Module;54;Сделать дашборд;02.янв;02.фев;High;Done;20.11.2026;12;0
+2;API Integration;55;Валидация форм;0.8;0.6;Low;Done;08.11.2026;7;0
+4;Data Analysis Module;56;Настроить Bootstrap;01.май;0.0;Low;Todo;15.11.2026;0;2
+4;Data Analysis Module;57;Написать документацию;2.0;01.июл;Low;Done;04.11.2026;19;0
+2;API Integration;58;Рефакторинг кода;1.0;01.фев;Medium;Done;27.10.2026;21;0
+4;Data Analysis Module;59;Исправить баг;01.май;0.0;Low;Todo;28.10.2026;0;1
+3;UI Redesign;60;Создать шаблоны;0.7;0.0;Low;Todo;27.11.2026;0;3
+3;UI Redesign;61;Создать шаблоны;03.мар;03.авг;Medium;Done;07.11.2026;23;0
+4;Data Analysis Module;62;Обновить зависимости;03.май;03.фев;High;Done;29.11.2026;7;0
+4;Data Analysis Module;63;Интеграция с GitHub API;02.май;02.сен;Medium;Done;08.11.2026;23;0
+2;API Integration;64;Написать тесты;06.апр;0.0;High;Todo;30.10.2026;0;3
+1;Flask Tracker;65;Валидация форм;06.июл;09.фев;High;Done;23.11.2026;6;0
+3;UI Redesign;66;Интеграция с GitHub API;05.июн;08.апр;High;In Progress;31.10.2026;5;5
+1;Flask Tracker;67;Написать тесты;0.8;0.0;Low;Todo;13.11.2026;0;3
+3;UI Redesign;68;Написать тесты;01.сен;01.июл;Medium;In Progress;07.11.2026;10;4
+4;Data Analysis Module;69;Интеграция с GitHub API;3.0;03.фев;Medium;Done;24.11.2026;9;0
+4;Data Analysis Module;70;Развернуть на хостинге;02.фев;3.0;Medium;Done;02.11.2026;23;0
+4;Data Analysis Module;71;Написать тесты;3.0;0.0;High;Todo;03.12.2026;0;1
+2;API Integration;72;Создать шаблоны;02.сен;0.0;Medium;Todo;01.11.2026;0;0
+4;Data Analysis Module;73;Интеграция с GitHub API;01.янв;0.0;Low;Todo;19.11.2026;0;3
+2;API Integration;74;Настроить ORM;02.апр;03.апр;Medium;In Progress;15.11.2026;1;1
+1;Flask Tracker;75;Валидация форм;0.7;0.6;Low;Done;05.11.2026;20;0
+2;API Integration;76;Обновить зависимости;02.сен;0.0;Medium;Todo;16.11.2026;0;0
+3;UI Redesign;77;Рефакторинг кода;07.мар;06.янв;High;In Progress;27.10.2026;8;4
+3;UI Redesign;78;Написать тесты;01.сен;02.май;Low;In Progress;30.11.2026;9;4
+2;API Integration;79;Настроить Bootstrap;02.янв;0.0;Medium;Todo;22.11.2026;0;2
+2;API Integration;80;Написать роуты;05.авг;7.0;High;In Progress;07.11.2026;3;3
+4;Data Analysis Module;81;Развернуть на хостинге;01.мар;0.0;Low;Todo;01.11.2026;0;3
+4;Data Analysis Module;82;Интеграция с GitHub API;03.июн;02.июл;Medium;Done;26.10.2026;5;0
+2;API Integration;83;Сделать дашборд;05.апр;05.июн;High;Done;16.11.2026;6;0
+2;API Integration;84;Написать документацию;0.6;0.5;Low;In Progress;11.11.2026;14;3
+3;UI Redesign;85;Написать тесты;06.май;5.0;High;In Progress;15.11.2026;4;2
+2;API Integration;86;Написать тесты;01.апр;01.сен;Low;Done;04.11.2026;18;0
+3;UI Redesign;87;Обновить зависимости;7.0;0.0;High;Todo;21.11.2026;0;1
+4;Data Analysis Module;88;Развернуть на хостинге;04.фев;04.мар;High;In Progress;11.11.2026;8;1
+4;Data Analysis Module;89;Настроить ORM;01.фев;01.мар;Low;Done;30.11.2026;10;0
+1;Flask Tracker;90;Валидация форм;01.июл;01.мар;Low;Done;22.11.2026;24;0
+3;UI Redesign;91;Обновить зависимости;01.фев;0.0;Low;Todo;13.11.2026;0;1
+3;UI Redesign;92;Рефакторинг кода;01.апр;01.фев;Medium;Done;05.11.2026;11;0
+4;Data Analysis Module;93;Сделать дашборд;06.фев;08.мар;High;Done;27.10.2026;18;0
+1;Flask Tracker;94;Написать тесты;1.0;01.апр;Medium;In Progress;02.12.2026;1;2
+2;API Integration;95;Написать роуты;02.июн;02.апр;High;Done;26.10.2026;19;0
+2;API Integration;96;Написать тесты;02.мар;0.0;High;Todo;03.12.2026;0;0
+1;Flask Tracker;97;Обновить зависимости;02.фев;03.янв;High;In Progress;27.10.2026;13;3
+1;Flask Tracker;98;Написать тесты;02.июн;0.0;Medium;Todo;18.11.2026;0;2
+1;Flask Tracker;99;Написать тесты;01.мар;0.0;Low;Todo;26.11.2026;0;3
+3;UI Redesign;100;Обновить зависимости;01.фев;01.фев;Low;In Progress;03.12.2026;3;1
