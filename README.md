@@ -45,7 +45,11 @@
 ## Структура
 
 csv_generate.py      # генерация данных
+
 data_loader.py       # загрузка и очистка данных
+
 analyzer.py          # метрики
+
 charts.py            # графики
+
 run_analysis.py      # анализ данных
