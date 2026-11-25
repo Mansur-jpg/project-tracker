@@ -44,14 +44,8 @@
 
 ## Структура
 
-project-tracker/
-├── data/
-│   └── project_tasks_data.csv
-├── src/
-│   ├── csv_generate.py      # генерация данных
-│   ├── data_loader.py       # загрузка и очистка
-│   ├── analyzer.py          # метрики
-│   ├── charts.py            # графики
-│   └── run_analysis.py      # точка входа
-└── charts/                  # PNG-графики (результат)
-
+csv_generate.py      # генерация данных
+data_loader.py       # загрузка и очистка данных
+analyzer.py          # метрики
+charts.py            # графики
+run_analysis.py      # анализ данных
